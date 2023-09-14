@@ -29,7 +29,7 @@ To get started with the projects and code samples in this repository, follow the
 1. **Clone the Repository**: Use `git clone` to clone this repository to your local machine.
 
    ```bash
-      git clone https://github.com/your-username/web-development-test-repo.git
+      git clone https://github.com/addynoven/web_dev.git
 Explore the Projects: Navigate through the repository to explore the different projects and code samples available.
 
 Run the Code: Refer to the individual project README files or code comments for instructions on how to run and test each project.
@@ -54,7 +54,7 @@ Your PR will be reviewed, and once approved, it will be merged into the main bra
 Thank you for contributing!
 
 Contact
-If you have any questions, or suggestions, or just want to connect, you can reach me via email at your.email@example.com or through my GitHub profile: Your GitHub Profile.
+If you have any questions, or suggestions, or just want to connect, you can reach me via email at dmcbaditya@gmail.com or through my GitHub profile: [https://github.com/addynoven](addynoven).
 
 Happy coding!
 
