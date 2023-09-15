@@ -53,7 +53,7 @@ Your PR will be reviewed, and once approved, it will be merged into the main bra
 
 Thank you for contributing!
 
-Contact
+##Contact
 If you have any questions, or suggestions, or just want to connect, you can reach me via email at dmcbaditya@gmail.com or through my GitHub profile: [https://github.com/addynoven](addynoven).
 
 Happy coding!
