@@ -34,7 +34,7 @@ Explore the Projects: Navigate through the repository to explore the different p
 
 Run the Code: Refer to the individual project README files or code comments for instructions on how to run and test each project.
 
-Contributing
+## Contributing
 Contributions to this repository are welcome! If you'd like to contribute, please follow these guidelines:
 
 Fork the repository to your GitHub account.
